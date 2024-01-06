@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshai113162" target="blank"><img src="https://img.shields.io/twitter/follow/harshai113162?logo=twitter&style=for-the-badge" alt="harshai113162" /></a> </p>
 
-- 🌱 I’m currently learning **React , JavScript**
+- 🌱 I’m currently learning **MAREN STACK**
 
 - 💬 Ask me about **Python,Javascript,Mysql**
 

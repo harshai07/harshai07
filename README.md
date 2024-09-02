@@ -4,7 +4,7 @@ Welcome to the profile of Harsha I, a Intern  currently navigating the challenge
 
 In my day-to-day, you'll find me tinkering with a variety of projects. I'm a firm believer in perpetual learning, and strive to stay connected with the ever-evolving landscape of software engineering.
 
-Are you as passionate about technology as I am, and are interested in exploring potential opportunities at Amazon? Connect with me on LinkedIn drawing and let's chat! [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-i-70b28921b/)
+Are you as passionate about technology as I am, and are interested in exploring potential opportunities at kpmg? Connect with me on LinkedIn drawing and let's chat! [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-i-70b28921b/)
 
 Bye for now!
 

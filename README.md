@@ -4,8 +4,6 @@
 ### Hi there 👋
 
 I'm a developer at [KPMG](https://kpmg.com/in/en/home.html) in India, Bangalore 🌆
-
-- 🧱 I’m currently working on [BrickHub](https://brickhub.dev)
 - ☕ I’m learning AEM and DSA 
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [AEM](https://experienceleague.adobe.com/en/docs/experience-manager-65) and [Java](https://java.dev).

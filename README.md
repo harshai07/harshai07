@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm a developer at [KPMG](https://kpmg.com/in/en/home.html) in Chicago, IL 🌆
+I'm a developer at [KPMG](https://kpmg.com/in/en/home.html) in India, Bangalore 🌆
 
 - 🧱 I’m currently working on [BrickHub](https://brickhub.dev)
 - ☕ I’m learning AEM and DSA 

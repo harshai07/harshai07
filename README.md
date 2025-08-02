@@ -4,5 +4,4 @@
 ### Hi there 👋
 - ☕ I’m learning AEM and DSA 
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- 💬 Ask me about [AEM](https://experienceleague.adobe.com/en/docs/experience-manager-65) and [Java](https://java.dev).
 
